@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on
-  - Enabling [PyTorch](https://github.com/pytorch/pytorch)'s automatic differentiation tool in [FTorch](https://github.com/Cambridge-ICCS/FTorch).
-  - Integrating the XIOS asynchronous I/O tool into a sea ice model ([nextSIM-DG](https://github.com/nextsimhub/nextsimdg)).
+  - Enabling online training in [FTorch](https://cambridge-iccs.github.io/FTorch/) Fortran interface for [PyTorch](https://pytorch.org/).
+  - Writing Fortran bindings for the [Enzyme](https://enzyme.mit.edu/) automatic differentiation tool.
 - 💬 Ask me about Python, C, C++, Fortran
 - 🌱 I’m currently learning Rust
