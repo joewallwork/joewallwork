@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on
-  - Enabling online training in [FTorch](https://cambridge-iccs.github.io/FTorch/) Fortran interface for [PyTorch](https://pytorch.org/).
+  - Enabling online training in the [FTorch](https://cambridge-iccs.github.io/FTorch/) Fortran interface for [PyTorch](https://pytorch.org/).
   - Writing Fortran bindings for the [Enzyme](https://enzyme.mit.edu/) automatic differentiation tool.
+  - Running the [Fortran index](https://fortran-index.github.io) hackathon series for improving the [Fortran-lang](https://fortran-lang.org/) community resource.
 - 💬 Ask me about Python, C, C++, Fortran
 - 🌱 I’m currently learning Rust
