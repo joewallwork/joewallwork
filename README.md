@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**jwallwork23/jwallwork23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joewallwork/joewallwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on
   - Writing Fortran bindings for the [Enzyme](https://enzyme.mit.edu/) automatic differentiation tool.
+  - Accelerating [UKCA](https://github.com/MetOffice/ukca) using data-driven methods.
   - Coupling the [MESC](https://github.com/CALIPSO-MESC/MESC) soil carbon cycle model into the [ORCHIDEE](https://orchidee.ipsl.fr/) land surface model.
   - Running the [Fortran index](https://fortran-index.github.io) hackathon series for improving the [Fortran-lang](https://fortran-lang.org/) community resource.
 - 💬 Ask me about Python, C, C++, Fortran
